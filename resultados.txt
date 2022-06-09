@@ -1,0 +1,14 @@
+Pais: ALEMANIA | Puntos: 6
+Pais: ARMENIA | Puntos: 24
+Pais: AUSTRALIA | Puntos: 80
+Pais: AUSTRIA | Puntos: 4
+Pais: BULGARIA | Puntos: 6
+Pais: FRANCIA | Puntos: 20
+Pais: HUNGRIA | Puntos: 24
+Pais: ITALIA | Puntos: 48
+Pais: MALTA | Puntos: 2
+Pais: POLONIA | Puntos: 6
+Pais: REINO UNIDO | Puntos: 26
+Pais: RUSIA | Puntos: 24
+Pais: SERBIA | Puntos: 20
+Pais: UCRANIA | Puntos: 74

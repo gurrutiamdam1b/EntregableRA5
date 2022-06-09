@@ -1,0 +1,38 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.root {
+	-fx-padding: 10;
+}
+.label {
+	-fx-font-size: 14px;
+
+}
+
+  .button{
+  	-fx-text-fill: gray;
+	-fx-font-size: 13px;
+	-fx-font-weight: bold;
+	-fx-border-radius: 5;
+	 
+	
+}
+.menu-bar{
+	-fx-border-color: #3467a9;
+	-fx-border-width: 0 0 2 0;
+
+}
+
+
+.menu-bar .label {
+	-fx-font-family: "Arial Narrow";
+	-fx-font-size: 16px;
+
+
+}
+
+
+.menu-bar .menu-button:hover, .menu-bar .menu-button:focused,
+       .menu-bar .menu-button:showing, .menu-item:hover, .menu-item:focused{
+	-fx-background-color: #3467a9;
+}
+
+

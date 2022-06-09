@@ -1,0 +1,7 @@
+italia:1:francia:2:reino unido:3:ucrania:10:australia:12
+ucrania:1:polonia:2m:francia:3:australia:10:rusia:12
+polonia:1:austria:2:alemania:3:italia:10:ucrania:12
+malta:1:italia:2:bulgaria:3:armenia:10:australia:12
+ucrania:1:armenia:2:australia:3:serbia:10:hungria:12:portugal
+ucrania:1:polonia:2:francia:3:australia:10:rusia:12
+italia:11:francia:5:reino unido:10:ucrania:12:australia:3
